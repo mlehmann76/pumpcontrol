@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name baseboard)(type Legacy)(uri ${KIPRJMOD}/libs/baseboard.lib)(options "")(descr ""))
+)
